@@ -22,3 +22,8 @@ This brand's demonstration is on `beaute-by-alaia-demo` within the `aesthetics-u
 
 ## Local
 Open `index.html` in a browser. Images and Google fonts require an internet connection.
+
+## Client-supplied media (October 2026)
+- `assets/clinic-real.webp` and `assets/practitioner-real.webp` are compressed derivatives of client-supplied photos. They appear in the About, Practitioner, and Gallery sections.
+- Before/after photos, medical-treatment video, educational flyer and promotional prices were **not** published to the publicly accessible website. Obtain signed/dated subject authorisation and appropriate substantiation before any results photography; review medical procedure footage separately. October promotion and prescription-only treatment advertising require UK CAP/ASA compliance approval.
+- The identity and professional qualifications of the pictured practitioner have not been verified; no claims about accreditation or registration were added.
