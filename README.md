@@ -24,6 +24,11 @@ This brand's demonstration is on `beaute-by-alaia-demo` within the `aesthetics-u
 Open `index.html` in a browser. Images and Google fonts require an internet connection.
 
 ## Client-supplied media (October 2026)
-- `assets/clinic-real.webp` and `assets/practitioner-real.webp` are compressed derivatives of client-supplied photos. They appear in the About, Practitioner, and Gallery sections.
-- Before/after photos, medical-treatment video, educational flyer and promotional prices were **not** published to the publicly accessible website. Obtain signed/dated subject authorisation and appropriate substantiation before any results photography; review medical procedure footage separately. October promotion and prescription-only treatment advertising require UK CAP/ASA compliance approval.
+- The existing real clinic and practitioner photos are used in About, Practitioner and the gallery. The real clinic photo now also replaces the stock photo in the homepage hero.
+- The owner has confirmed patient consent for publishing the supplied before-and-after photography and treatment footage in the public demo. Three patient comparison sets and the 24-second demonstration video are now included in the gallery; individual results vary.
 - The identity and professional qualifications of the pictured practitioner have not been verified; no claims about accreditation or registration were added.
+
+## Gallery release (24 October 2026)
+- Public demo media: three patient comparisons, clinic and practitioner photographs, promotional portrait extracts, and a silent, click-to-play treatment video. Patient publication consent affirmed by site owner. Original images were compressed without retouching the patient result content.
+- Historical offers and the medical marketing leaflet remain offline pending separate pricing and UK advertising review.
+- The video is muted at source to avoid incidental audio, and only plays if the viewer chooses to open it.
